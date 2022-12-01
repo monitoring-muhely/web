@@ -1,0 +1,61 @@
+---
+Title: Skarlátbogár
+Description: This description will go in the meta description tag
+Author: Miklós Bán
+Date: 2022-11-25
+Robots: noindex,nofollow
+Template: index
+---
+# Skarlátbogár
+
+## Mi a kérdés?
+- 21 siton egyedszám
+- 180 site-on jelenlét hiány
+- Országos elterjedés
+- Országos abundancia?
+- Trend analízis?
+
+## Mintavételi elrendezés
+- Országos
+    - Rétegzett mintavétel:
+        - Állandó 50x50m mintavételi helyek 1x1km-es nagy kvadrátokban. 
+
+- Natura2000 sitokon
+    - Rétegzett mintavétel:
+        - Állandó 50x50m mintavételi helyek sitonként. 
+
+## Mintaelem szám
+
+## Mintavétel gyakorisága (ismétlések éven belül és évek szerint)
+- Egy éven belül két mintavétel
+
+## Mintavételi módszerek
+- NBMR protokoll szerint 10x10 területű háncs lefejtés
+
+## Gyűjtött változók
+- Lefejtett háncs terület tényleges mérete
+- Fa állapota (álló, fekvő)
+- Fa becsült törzsátmérője 1m magasságban
+- Fa becsült magassága
+- Kifejlett bogarak mennyisége 
+- Lárvák mennyisége
+- ?
+
+## Tudáshiány (ami befolyásolja a monitoringot)
+- Javasolt vizsgálatok
+
+## Tudásbázis 
+- (Zotero link)
+- összefoglalók más monitoring programokból
+
+## Elemzések és eredmények
+- (Jupyter link)
+
+## Javasolt monitoring módszer
+
+## Hozzájárulók
+
+## Szeretnék hozzájárulni
+- (link)
+
+[vissza](?workshop/natura2000/bogarak)
