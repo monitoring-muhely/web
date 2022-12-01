@@ -18,7 +18,7 @@ A javasolt témákat csoportosítjuk.
 
 A következő tematikus csoportok lettek eddig létrehozva:
 
-[Natura 2000](?workshop/natura2000)
+[Natura 2000](?07-workshop/10-natura2000)
 
 [vissza](?)
 

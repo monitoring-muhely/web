@@ -46,7 +46,6 @@ content_config:                     # Parsedown Markdown parser config
 assets_dir: assets/                 # The path to Pico's assets directory
 assets_url: ~                       # Pico will try to guess the URL to the assets dir of your installation;
                                     #     If this fails, override it here. Example: https://example.com/pico/assets/
-
 ##
 # Plugins
 #

@@ -12,10 +12,10 @@ Template: index
 ---
 # Natura 2000 bogarak
 
-- [skarlátbogár](?workshop/natura2000/bogarak/skarlatbogar)
+- [skarlátbogár](?07-workshop/10-natura2000/20-bogarak/30-skarlatbogar)
 - szarvasbogár
 - havasi cincér
 - remetebogár
 - ...
 
-[vissza](?workshop/natura2000)
+[vissza](?07-workshop/10-natura2000)

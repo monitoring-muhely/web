@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "e9fa5ef17336ebc398124f63571172be",
+    "content-hash": "5018bce02bdf75516453d4d1318b0b95",
     "packages": [
         {
             "name": "erusev/parsedown",
@@ -170,59 +170,6 @@
                 "source": "https://github.com/iridescent-dev/pico-toc-plugin"
             },
             "time": "2022-01-18T17:13:12+00:00"
-        },
-        {
-            "name": "nliautaud/pico-pages-list",
-            "version": "0.4.1",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/nliautaud/pico-pages-list.git",
-                "reference": "ead799adc5724ffdac095c173633d6837b4145c2"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/nliautaud/pico-pages-list/zipball/ead799adc5724ffdac095c173633d6837b4145c2",
-                "reference": "ead799adc5724ffdac095c173633d6837b4145c2",
-                "shasum": ""
-            },
-            "require": {
-                "php": ">=5.4.0"
-            },
-            "type": "pico-plugin",
-            "autoload": {
-                "classmap": [
-                    "PicoPagesList.php"
-                ]
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "Nicolas Liautaud",
-                    "homepage": "https://github.com/nliautaud/pico-pages-list",
-                    "role": "Lead Developer"
-                },
-                {
-                    "name": "Contributors",
-                    "homepage": "https://github.com/nliautaud/pico-pages-list/graphs/contributors"
-                }
-            ],
-            "description": "A pages lists plugin for Pico CMS, with nested pages, pages filtering and HTML navigation.",
-            "homepage": "http://picocms.org/",
-            "keywords": [
-                "pico",
-                "pico-pages-list",
-                "picocms",
-                "picocms-plugin"
-            ],
-            "support": {
-                "docs": "https://github.com/nliautaud/pico-pages-list/blob/master/README.md",
-                "issues": "https://github.com/nliautaud/pico-pages-list/issues",
-                "source": "https://github.com/nliautaud/pico-pages-list"
-            },
-            "time": "2019-05-10T08:24:13+00:00"
         },
         {
             "name": "picocms/composer-installer",

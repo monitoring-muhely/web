@@ -26,7 +26,7 @@ Template: index
 
 ## Mintaelem szám
 
-## Mintavétel gyakorisága (ismétlések éven belül és évek szerint)
+## Mintavétel gyakorisága 
 - Egy éven belül két mintavétel
 
 ## Mintavételi módszerek
@@ -41,15 +41,18 @@ Template: index
 - Lárvák mennyisége
 - ?
 
-## Tudáshiány (ami befolyásolja a monitoringot)
+## Tudáshiány 
 - Javasolt vizsgálatok
 
 ## Tudásbázis 
-- (Zotero link)
+- Cikk adatbázis
+    - Zotero?
+    - Jabref?
 - összefoglalók más monitoring programokból
 
 ## Elemzések és eredmények
-- (Jupyter link)
+- Jupyter? Szükségünk lesz akkor felhasználó regisztrációra és biztonságos authentikációra...
+- Voila? https://blog.jupyter.org/and-voil%C3%A0-f6a2c08a4a93
 
 ## Javasolt monitoring módszer
 
@@ -58,4 +61,4 @@ Template: index
 ## Szeretnék hozzájárulni
 - (link)
 
-[vissza](?workshop/natura2000/bogarak)
+[vissza](?07-workshop/10-natura2000/20-bogarak)
