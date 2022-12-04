@@ -18,6 +18,13 @@ A Nemzeti Biodiverzitás Monitoringozó rendszerben számos Natura 2000 faj éri
 
 A következő csoportokkal kezdtünk el foglalkozni:
 
-[Bogarak](?07-workshop/10-natura2000/20-bogarak)
+**[Bogarak](?07-workshop/10-natura2000/20-bogarak)**
+[Lepkék](?07-workshop/10-natura2000/10-lepkek)
+[Egyenesszárnyúak](?07-workshop/10-natura2000/30-orthoptera)
+[Szitakötők](?07-workshop/10-natura2000/40-odonata)
+[Madarak](?07-workshop/10-natura2000/50-madarak)
+[Emlősök](?07-workshop/10-natura2000/60-emlosok)
+[Halak](?07-workshop/10-natura2000/70-halak)
+
 
 [vissza](?07-workshop)
