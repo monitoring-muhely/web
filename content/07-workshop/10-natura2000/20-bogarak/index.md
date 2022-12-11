@@ -32,4 +32,4 @@ Template: index
 - Kerekvállú állasbogár (*Rhysodes sulcatus*)
 - Havasi cincér	(*Rosalia alpina*)
 
-[vissza](?07-workshop/10-natura2000)
+[<-- vissza](?07-workshop/10-natura2000)

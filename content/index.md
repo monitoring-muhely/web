@@ -48,6 +48,10 @@ A monitoring műhely kutatók és természetvédelmi szakemberek közös kezdem�
 - Monitoring program regisztrációja elemzéshez
 [tovább](?06-analysis)
 
+# Műhely találkozók
+Műhely találkozók
+[tovább](?08-meetings)
+
 # Monitoring műhelymunka
 - Tematikus monitoring tudásbázis és javaslat gyűjtemény
 [tovább](?07-workshop)

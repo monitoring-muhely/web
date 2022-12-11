@@ -137,7 +137,10 @@ final class CurrentLevel extends AbstractPicoPlugin
 			isset($this->currentNav['current']) && $currentPage = $pages[$this->currentNav['current']];
 			isset($this->currentNav['previous']) && $previousPage = $pages[$this->currentNav['previous']];
 			isset($this->currentNav['next']) && $nextPage = $pages[$this->currentNav['next']];
-		}
+                }
+                $current_page = array_key_last($pages);
+                $pages[$current_page]['title'] = '';
+                $pages[$current_page]['url'] = '?';
 	}
 
 	private function parseDir(string $dir) {
